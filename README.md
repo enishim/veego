@@ -1,4 +1,4 @@
-# VigoPRO — ISP Manager
+# ISP Manager
 
 Sistema web de gerenciamento de provedor de internet, baseado no Vigo, com integrações a RADIUS, MySQL, iClass e banco para geração de boletos.
 
@@ -126,4 +126,4 @@ Para transformar em sistema real, conecte um backend (Node.js/PHP/Python) com:
 
 ---
 
-*VigoPRO — Desenvolvido para provedores de internet*
+*Desenvolvido para provedores de internet*
